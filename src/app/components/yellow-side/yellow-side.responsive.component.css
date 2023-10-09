@@ -1,0 +1,17 @@
+@media screen and (max-width: 780px) {
+  .left__container-left {
+    height: auto;
+
+  }
+
+  .left__container-left > img {
+    height: 470px;
+  }
+
+  .navbar img {
+    width: 20px;
+
+  }
+}
+
+

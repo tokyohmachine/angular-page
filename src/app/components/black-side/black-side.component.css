@@ -1,0 +1,57 @@
+.right__container-right {
+  background-color: rgb(23,19,18);
+  
+}
+
+.inner-container-right {
+  display: flex;
+  flex-direction: column;
+  padding: 70px;
+}
+
+h2 {
+  color:  rgb(253,249,0);
+  margin: 15px 0 15px 0;
+  font-size: 40px;
+}
+
+h3 {
+  color:  rgb(253,249,0);
+  text-decoration: underline;
+  font-size: 12px;
+  margin: 15px 0 15px 0;
+}
+
+P {
+  color: #fff;
+  margin: 15px 0 15px 0;
+  font-size: 12px;
+}
+
+button {
+  cursor: pointer;
+  color: rgb(253,249,0);
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 30px;
+  background-color: black;
+  max-width: 300px;
+  padding: 20px;
+  margin: 15px 0 15px 0;
+}
+
+.end {
+  color:  rgb(253,249,0);
+  font-weight: bold;
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  width: 100%;
+  height: auto;
+
+}

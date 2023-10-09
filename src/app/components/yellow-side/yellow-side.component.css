@@ -1,0 +1,46 @@
+
+.left__container-left {
+  background-color: rgb(253, 249, 0);
+  position: relative;
+
+}
+
+.left__container-left > img {
+  width: 100%;
+  height: 650px;
+}
+
+.inner-container {
+  width: 100%;
+  padding: 20px;
+  position: absolute;
+
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar img {
+  width: 30px;
+
+}
+
+.navbar .left-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.navbar .left-list li{
+  padding: 10px;
+  font-weight: bold;
+}
+
+.hero {
+  margin-top: 30px;
+  text-align: right;
+}
+
