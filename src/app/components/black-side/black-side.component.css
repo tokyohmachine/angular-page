@@ -1,6 +1,6 @@
 .right__container-right {
   background-color: rgb(23,19,18);
-  
+
 }
 
 .inner-container-right {
@@ -54,4 +54,8 @@ button {
   width: 100%;
   height: auto;
 
+}
+button a {
+  text-decoration: none;
+  color:  rgb(253,249,0);
 }
